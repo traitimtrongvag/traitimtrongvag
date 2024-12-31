@@ -26,14 +26,10 @@
 
 <br><br>
 
-- :school: I am a study [Faculty of Computers & Informatics](http://thpthothiky.sgdcamau.edu.vn)
-- :trophy: 2x `ACPC` Finalist.
+- :school: I am a student [My School](http://thpthothiky.sgdcamau.edu.vn)
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :boom: You can visit [MY FB](https://www.facebook.com/profile.php?id=61565647642109&mibextid=ZbWKwL).
 <br>
 
 
