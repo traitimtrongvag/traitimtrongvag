@@ -31,6 +31,9 @@
 - :nerd_face: Always `learning new things`.
 - :boom: You can visit [MY FB](https://www.facebook.com/profile.php?id=61565647642109&mibextid=ZbWKwL).
 <br>
+
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+
 <p align="center">  
   <img src="https://github.com/anan1412kdz/anan1412kdz/blob/main/Images/Connect-with-me.gif?raw=true" width="100px">
 </p>
