@@ -270,7 +270,7 @@
 	<a href="https://github.com/7oSkaaa/CP-Templates-Snippets">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Udemy-Website">
+	<a href="https://github.com/anan1412kdz/Udemy-Website" target="_blank">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=anan1412kdz&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
