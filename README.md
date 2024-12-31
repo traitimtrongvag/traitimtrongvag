@@ -31,12 +31,22 @@
 - :nerd_face: Always `learning new things`.
 - :boom: You can visit [MY FB](https://www.facebook.com/profile.php?id=61565647642109&mibextid=ZbWKwL).
 <br>
-  <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture>
 <p align="center">  
-  <a href="https://www.facebook.com/profile.php?id=61565647642109&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href="https://www.instagram.com/pan.lniz_?igsh=MTBvZHV2eHFybGR1dw=="><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.tiktok.com/@an.an8587?_t=8sfYEMIDxuD&_r=1"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=plastic&logo=tiktok&logoColor=white" alt="TikTok"/></a>
-  <a href="mailto:tbinh831@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <img src="https://github.com/anan1412kdz/anan1412kdz/blob/main/Images/Connect-with-me.gif?raw=true" width="100px">
+</p>
+<p align="center">  
+  <a href="https://www.facebook.com/profile.php?id=61565647642109&mibextid=ZbWKwL">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/pan.lniz_?igsh=MTBvZHV2eHFybGR1dw==">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.tiktok.com/@an.an8587?_t=8sfYEMIDxuD&_r=1">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=plastic&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="mailto:tbinh831@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 ## 🛠️ My Skills
