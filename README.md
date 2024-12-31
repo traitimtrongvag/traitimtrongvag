@@ -192,7 +192,7 @@
 
 ----
 	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=7oSkaaa&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
+[![anan1412kdz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=anan1412kdz&theme=github)](https://github.com/anan1412kdz/github-readme-activity-graph)
 
  
 </details>
