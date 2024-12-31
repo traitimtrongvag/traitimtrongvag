@@ -47,7 +47,7 @@
 <a href="https://www.instagram.com/pan.lniz_?igsh=MTBvZHV2eHFybGR1dw=="><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	<a href="https://www.tiktok.com/@an.an8587?_t=8sfYEMIDxuD&_r=1"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=plastic&logo=tiktok&logoColor=white" alt="TikTok"/></a>
 </p>
-
+<a href="https://www.facebook.com/profile.php?id=61565647642109&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 
 
 ## 🛠️ My Skills
