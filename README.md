@@ -31,7 +31,7 @@
 - :nerd_face: Always `learning new things`.
 - :boom: You can visit [MY FB](https://www.facebook.com/profile.php?id=61565647642109&mibextid=ZbWKwL).
 <br>
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture>
+  <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture>
 <p align="center">  
   <a href="https://www.facebook.com/profile.php?id=61565647642109&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 <a href="https://www.instagram.com/pan.lniz_?igsh=MTBvZHV2eHFybGR1dw=="><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
