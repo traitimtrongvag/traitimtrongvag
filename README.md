@@ -26,7 +26,7 @@
 
 <br><br>
 
-- :school: I am a study (http://thpthothiky.sgdcamau.edu.vn)
+- :school: I am a study [Faculty of Computers & Informatics](http://thpthothiky.sgdcamau.edu.vn)
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
