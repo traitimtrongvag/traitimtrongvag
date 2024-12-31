@@ -38,6 +38,9 @@
   <img src="https://github.com/anan1412kdz/anan1412kdz/blob/main/Images/Connect-with-me.gif?raw=true" width="100px">
 </p>
 <p align="center">  
+<a href="https://discord.com/users/anan_1412kdz">
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=plastic&logo=discord&logoColor=white" alt="Discord" />
+</a>
   <a href="https://www.facebook.com/profile.php?id=61565647642109&mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
