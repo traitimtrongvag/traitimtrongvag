@@ -43,11 +43,10 @@
 	<a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
 	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
 </p>
-
-                <a href="https://www.instagram.com/pan.lniz_?igsh=MTBvZHV2eHFybGR1dw=="><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	        <a href="https://www.tiktok.com/@an.an8587?_t=8sfYEMIDxuD&_r=1"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=plastic&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+	<a href="https://www.instagram.com/pan.lniz_?igsh=MTBvZHV2eHFybGR1dw=="><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+        <a href="https://www.tiktok.com/@an.an8587?_t=8sfYEMIDxuD&_r=1"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=plastic&logo=tiktok&logoColor=white" alt="TikTok"/></a>
 </p>
-                <a href="https://www.facebook.com/profile.php?id=61565647642109&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+        <a href="https://www.facebook.com/profile.php?id=61565647642109&mibextid=ZbWKwL"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 
 
 ## 🛠️ My Skills
