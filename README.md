@@ -153,20 +153,8 @@
 <details open>
 <details open>
   <summary>Currently listening 🎶</summary>
-  
-  <!-- Bài hát 1 -->
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&redirect=true" target="_blank">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&cover_image=true&theme=novatorem" alt="Song 1"/>
-  </a>
-  
-  <!-- Bài hát 2 -->
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fvs6c4egxbnxlgeywoi2ns6zoe&redirect=true" target="_blank">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fvs6c4egxbnxlgeywoi2ns6zoe&cover_image=true&theme=novatorem" alt="Song 2"/>
-  </a>
-  
-  <!-- Bài hát 3 -->
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fvs6c4egxbnxlgeywoi2ns6zoe&redirect=true" target="_blank">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fvs6c4egxbnxlgeywoi2ns6zoe&cover_image=true&theme=novatorem" alt="Song 3"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fvs6c4egxbnxlgeywoi2ns6zoe&cover_image=true&theme=novatorem"/>
   </a>
 
 </details>
