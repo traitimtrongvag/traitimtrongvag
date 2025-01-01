@@ -164,9 +164,6 @@
 </p>
 
 <br> 
-
----
-
 <details open>
   <summary>My Favorite Song🎶</summary>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fvs6c4egxbnxlgeywoi2ns6zoe&redirect=true" target="_blank">
@@ -174,6 +171,8 @@
   </a>
 
 </details>
+
+---
 
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
