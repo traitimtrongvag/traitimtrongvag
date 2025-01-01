@@ -151,13 +151,29 @@
 </p>
  
 <details open>
-
+<details open>
   <summary>Currently listening 🎶</summary>
   
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fvs6c4egxbnxlgeywoi2ns6zoe&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fvs6c4egxbnxlgeywoi2ns6zoe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+  <!-- Bài hát 1 -->
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&redirect=true" target="_blank">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&cover_image=true&theme=novatorem" alt="Song 1"/>
   </a>
+  
+  <!-- Bài hát 2 -->
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fvs6c4egxbnxlgeywoi2ns6zoe&redirect=true" target="_blank">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fvs6c4egxbnxlgeywoi2ns6zoe&cover_image=true&theme=novatorem" alt="Song 2"/>
+  </a>
+  
+  <!-- Bài hát 3 -->
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fvs6c4egxbnxlgeywoi2ns6zoe&redirect=true" target="_blank">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fvs6c4egxbnxlgeywoi2ns6zoe&cover_image=true&theme=novatorem" alt="Song 3"/>
+  </a>
+
 </details>
+  
+
+</details>
+
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
 <p align="center">
