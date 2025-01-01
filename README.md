@@ -150,6 +150,7 @@
     <kbd>OS</kbd>
     <br>
     <br>
+	  
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
  
 <p align="center">
