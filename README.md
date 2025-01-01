@@ -149,6 +149,15 @@
   &nbsp;&nbsp; <!-- Tạo khoảng cách 2 ô -->
   <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png" alt="Replit"/>
 </p>
+ 
+ ### 
+
+<summary>Currently listening 🎶</summary>
+
+<a href="https://open.spotify.com/track/1i84eCrJbu0EIP5aWToMMa" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fvs6c4egxbnxlgeywoi2ns6zoe&track=1i84eCrJbu0EIP5aWToMMa&cover_image=true&theme=novatorem"/>
+</a>
+</details>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
  
