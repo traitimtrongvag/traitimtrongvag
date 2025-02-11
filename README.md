@@ -246,6 +246,9 @@
 <a href="https://github.com/anan1412kdz/Proxy-Tools.git" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anan1412kdz&repo=Proxy-Tools&theme=tokyonight" alt="GitHub Stats" />
 </a>
+<a href="https://github.com/anan1412kdz/weather-bot.git" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anan1412kdz&repo=weather-bot&theme=tokyonight" alt="GitHub Stats" />
+</a>	  
   </p>
 </div>
 </details>
