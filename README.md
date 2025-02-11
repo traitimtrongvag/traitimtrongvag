@@ -250,7 +250,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anan1412kdz&repo=weather-bot&theme=tokyonight" alt="GitHub Stats" />
 </a>	  
 <a href="https://github.com/anan1412kdz/Oioi.git" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anan1412kdz&repo=Oioi&theme=pink" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anan1412kdz&repo=Oioi&bg_color=FF007F&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub Stats" />
 </a>
   </p>
 </div>
