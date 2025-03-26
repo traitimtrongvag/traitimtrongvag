@@ -29,7 +29,7 @@
 - :school: I am a student [My School](http://thpthothiky.sgdcamau.edu.vn)
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
-- :boom: You can visit [MY FB](https://www.facebook.com/profile.php?id=61565647642109&mibextid=ZbWKwL).
+- :boom: You can visit [My fb](https://www.facebook.com/profile.php?id=61565647642109&mibextid=ZbWKwL).
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
