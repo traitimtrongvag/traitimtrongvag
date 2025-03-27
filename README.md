@@ -29,7 +29,7 @@
 - :school: I am a student [My School](http://thpthothiky.sgdcamau.edu.vn)
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
-- :boom: You can visit [My fb](https://www.facebook.com/profile.php?id=61565647642109&mibextid=ZbWKwL).
+- :boom: You can visit [MY FB](https://www.facebook.com/profile.php?id=61565647642109&mibextid=ZbWKwL).
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
@@ -185,7 +185,7 @@
 ----	
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=traitimtrongvag &theme=tokyonight_duo" alt="traitimtrongvag" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anan1412kdz&theme=tokyonight_duo" alt="anan1412kdz" />
 </p>
 
 </details>
@@ -196,9 +196,9 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="traitimtrongvag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=traitimtrongvag &show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+	    <img alt="anan1412kdz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anan1412kdz&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
     </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=traitimtrongvag &langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="traitimtrongvag" height="230px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anan1412kdz&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="anan1412kdz" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -208,7 +208,7 @@
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 ----
 	
-[![traitimtrongvag github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=traitimtrongvag &theme=github)](https://github.com/traits/github-readme-activity-graph)
+[![anan1412kdz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=anan1412kdz&theme=github)](https://github.com/anan1412kdz/github-readme-activity-graph)
 
  
 </details>
@@ -218,11 +218,11 @@
 ----
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=traitimtrongvag &layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="traitimtrongvag" />
+    <img src="https://github-profile-trophy.vercel.app/?username=anan1412kdz&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="anan1412kdz" />
   </a> 
 </p>
 
-[![@traitimtrongvag Holopin board](https://holopin.io/api/user/board?user=traitimtrongvag)](https://holopin.io/@traitimtrongvag)
+[![@anan1412kdz's Holopin board](https://holopin.io/api/user/board?user=anan1412kdz)](https://holopin.io/@anan1412kdz)
 
 </details>
 
