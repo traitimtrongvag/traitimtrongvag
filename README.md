@@ -196,7 +196,7 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="traitimtrongvag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anan1412kdz&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+	    <img alt="traitimtrongvag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=traitimtrongvag &show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
     </a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=traitimtrongvag &langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="traitimtrongvag" height="230px"/>
 <br/>
@@ -208,7 +208,7 @@
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 ----
 	
-[![anan1412kdz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=traitimtrongvag &theme=github)](https://github.com/traits/github-readme-activity-graph)
+[![traitimtrongvag github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=traitimtrongvag &theme=github)](https://github.com/traits/github-readme-activity-graph)
 
  
 </details>
