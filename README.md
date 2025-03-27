@@ -222,7 +222,7 @@
   </a> 
 </p>
 
-[![@anan1412kdz's Holopin board](https://holopin.io/api/user/board?user=traitimtrongvag)](https://holopin.io/@traitimtrongvag)
+[![@traitimtrongvag Holopin board](https://holopin.io/api/user/board?user=traitimtrongvag)](https://holopin.io/@traitimtrongvag)
 
 </details>
 
