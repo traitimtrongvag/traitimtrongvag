@@ -185,7 +185,7 @@
 ----	
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anan1412kdz&theme=tokyonight_duo" alt="anan1412kdz" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=traitimtrongvag &theme=tokyonight_duo" alt="traitimtrongvag" />
 </p>
 
 </details>
