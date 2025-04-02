@@ -238,7 +238,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=AAn-Ddos-Attack&theme=tokyonight" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/traitimtrongvag/Encode-vip-Anan.git" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Encode-vip-Anan&theme=tokyonight" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Encodev2-Anan&theme=tokyonight" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/traitimtrongvag/Spam-phone-number.git" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Spam-phone-number&theme=tokyonight" alt="GitHub Stats" />
