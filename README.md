@@ -1,6 +1,9 @@
 <h1 align="center">Hi , I'm AAn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Phuc+Ann;Love+DIY"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Phuc+Ann;Love+DIY;2011 tại C1 Messi đá 13 trận C1 và giành MOTM cả 13 trận đó
+điểm 10 chung kết C1
+Ricon ngày càng xuất hiện nhiều là vì Messi đánh bại MU + rô tại CK C1 2009
+Messi đánh bại real + rô tại BK C1 2011"></a>
 </p>
 
 
