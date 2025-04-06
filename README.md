@@ -208,7 +208,7 @@
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 ----
 	
-[![anan1412kdz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=traitimtrongvag&theme=github)](https://github.com/traitimtrongvag/github-readme-activity-graph)
+[![traitimtrongvag's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=traitimtrongvag&theme=github)](https://github.com/traitimtrongvag/github-readme-activity-graph)
 
  
 </details>
