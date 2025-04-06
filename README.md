@@ -208,7 +208,7 @@
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 ----
 	
-[![anan1412kdz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=anan1412kdz&theme=github)](https://github.com/anan1412kdz/github-readme-activity-graph)
+[![anan1412kdz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=traitimtrongvag&theme=github)](https://github.com/traitimtrongvag/github-readme-activity-graph)
 
  
 </details>
@@ -218,11 +218,11 @@
 ----
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anan1412kdz&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="anan1412kdz" />
+    <img src="https://github-profile-trophy.vercel.app/?username=traitimtrongvag&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="traitimtrongvag" />
   </a> 
 </p>
 
-[![@anan1412kdz's Holopin board](https://holopin.io/api/user/board?user=anan1412kdz)](https://holopin.io/@anan1412kdz)
+[![@traitimtrongvag's Holopin board](https://holopin.io/api/user/board?user=traitimtrongvag)](https://holopin.io/@traitimtrongvag)
 
 </details>
 
