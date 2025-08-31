@@ -199,14 +199,13 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=traitimtrongvag&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="traitimtrongvag" height="230px"/>  
 <br/>  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-</p>  
-</details>  <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>  
+</p>  <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
-<p align="center">  
-  <a href="https://github.com/traitimtrongvag/github-readme-activity-graph">  
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=traitimtrongvag&theme=github" alt="GitHub Activity Graph"/>  
-  </a>  
-</p>  
+<p align="center">
+  <a href="https://github.com/traitimtrongvag/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=traitimtrongvag&theme=github" alt="GitHub Activity Graph"/>
+  </a>
+</p>
 
 </details>
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
