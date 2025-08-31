@@ -191,7 +191,6 @@
 </details>
 
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
 ----
 	
 <p align="center">
