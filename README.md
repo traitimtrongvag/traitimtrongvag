@@ -200,15 +200,15 @@
 <br/>  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 </p>  
-</details>  
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-----
-	
-[![traitimtrongvag's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=traitimtrongvag&theme=github)](https://github.com/traitimtrongvag/github-readme-activity-graph)
+</details>  <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>  
 
- 
+<p align="center">  
+  <a href="https://github.com/traitimtrongvag/github-readme-activity-graph">  
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=traitimtrongvag&theme=github" alt="GitHub Activity Graph"/>  
+  </a>  
+</p>  
+
 </details>
-
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
 ----
