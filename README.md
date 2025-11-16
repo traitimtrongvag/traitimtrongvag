@@ -66,31 +66,29 @@
 ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"> </picture> Programming Languages
 
 <p align="center">
-  &emsp;
   <!-- Python -->
   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
   &emsp;
-  <!-- java -->
+  <!-- Java -->
   <a href="https://www.java.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="25px" style="vertical-align:middle;"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396?style=for-the-badge&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
   &emsp;
   <!-- Rust -->
   <a href="https://www.rust-lang.org" target="_blank">
-    <img alt="Rust" src="https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white">
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-%23000000.svg?style=plastic&logo=rust&logoColor=white">
   </a>
   &emsp;
   <!-- C -->
   <a href="https://www.cprogramming.com/" target="_blank">
-    <img alt="C" src="https://img.shields.io/badge/C-%232370ED?style=for-the-badge&logo=c&logoColor=white">
+    <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?style=plastic&logo=c&logoColor=white">
   </a>
   &emsp;
   <!-- C++ -->
   <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a>
 </p>
 
