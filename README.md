@@ -171,7 +171,7 @@
 
 <br> 
 <details open>
-  <summary>My Favorite Song🎶</summary>
+  <summary>Spotify Playing 🎧</summary>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fvs6c4egxbnxlgeywoi2ns6zoe&redirect=true" target="_blank">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fvs6c4egxbnxlgeywoi2ns6zoe&cover_image=true&theme=novatorem"/>
   </a>
@@ -259,7 +259,7 @@
 
 </br></br>
 	
-## 🐍 A Snake Is Eating
+## 🐍 Snake Eating Commits
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
