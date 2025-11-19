@@ -137,14 +137,16 @@
  
 <p align="center">
   <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-019733.svg?style=plastic&logo=vim&logoColor=white"></a>
+    &nbsp;&nbsp; <!-- Tạo khoảng cách 2 ô -->
+ <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/>
+
 </p>
 &emsp;
 			
  ### Tools
 
 <p align="center">
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/>
-  &nbsp;&nbsp; <!-- Tạo khoảng cách 2 ô -->
+
   <img width="30px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Termux"/>
   &nbsp;&nbsp; <!-- Tạo khoảng cách 2 ô -->
   <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png" alt="Replit"/>
