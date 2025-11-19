@@ -137,9 +137,8 @@
  
 <p align="center">
   <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-019733.svg?style=plastic&logo=vim&logoColor=white"></a>
-    &nbsp;&nbsp; <!-- Tạo khoảng cách 2 ô -->
- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/>
-
+  &nbsp;&nbsp;
+  <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
 </p>
 &emsp;
 			
