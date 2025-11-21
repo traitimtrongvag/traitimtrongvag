@@ -227,28 +227,28 @@
 	
 <div>
   <p align="center">
-  <a href="https://github.com/traitimtrongvag/Base64.git" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=GetOFFSET&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/traitimtrongvag/AAn-Ddos-Attack.git" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=AAn-Dos-Attack&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/traitimtrongvag/Encode-vip-Anan.git" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Encodev2-Anan&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/traitimtrongvag/Spam-phone-number.git" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Spam-phone-number&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/traitimtrongvag/Proxy-Tools.git" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Proxy-Tools&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/traitimtrongvag/weather-bot.git" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=weather-bot&theme=tokyonight" alt="GitHub Stats" />
-  </a>      
-  <a href="https://github.com/traitimtrongvag/Oioi.git" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Oioi&bg_color=FF69B4&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub Stats" />
-  </a>
-</p>
+    <a href="https://github.com/traitimtrongvag/Base64.git" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=GetOFFSET&theme=tokyonight&v=2&cache_seconds=1800" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/traitimtrongvag/AAn-Ddos-Attack.git" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=AAn-Dos-Attack&theme=tokyonight&v=2&cache_seconds=1800" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/traitimtrongvag/Encode-vip-Anan.git" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Encodev2-Anan&theme=tokyonight&v=2&cache_seconds=1800" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/traitimtrongvag/Spam-phone-number.git" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Spam-phone-number&theme=tokyonight&v=2&cache_seconds=1800" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/traitimtrongvag/Proxy-Tools.git" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Proxy-Tools&theme=tokyonight&v=2&cache_seconds=1800" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/traitimtrongvag/weather-bot.git" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=weather-bot&theme=tokyonight&v=2&cache_seconds=1800" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/traitimtrongvag/Oioi.git" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Oioi&bg_color=FF69B4&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&v=2&cache_seconds=1800" alt="GitHub Stats" />
+    </a>
+  </p>
 </div>
 </details>
 
