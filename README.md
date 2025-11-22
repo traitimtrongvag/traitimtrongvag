@@ -225,7 +225,7 @@
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 ----
 	
-<table align="center">
+<table align="center" border="0" cellpadding="10">
   <tr>
     <td align="center">
       <a href="https://github.com/traitimtrongvag/GetOFFSET.git" target="_blank">
