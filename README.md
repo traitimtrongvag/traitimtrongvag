@@ -233,6 +233,9 @@
     <a href="https://github.com/traitimtrongvag/And64InlineHook-rs.git" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=And64InlineHook-rs&theme=tokyonight&v=2&cache_seconds=1800" />
     </a>    
+     <a href="https://github.com/traitimtrongvag/LeetCode.git" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=LeetCode&theme=tokyonight&v=2&cache_seconds=1800" />
+    </a>    
     <a href="https://github.com/traitimtrongvag/AAn-Ddos-Attack.git" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=AAn-Dos-Attack&theme=tokyonight&v=2&cache_seconds=1800" />
     </a>
