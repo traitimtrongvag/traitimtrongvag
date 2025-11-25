@@ -204,7 +204,7 @@
 
 <p align="center">
   <a href="https://github.com/traitimtrongvag/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=traitimtrongvag&theme=github" alt="GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=traitimtrongvag&theme=modern-lilac" alt="GitHub Activity Graph"/>
   </a>
 </p>
 
