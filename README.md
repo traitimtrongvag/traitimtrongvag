@@ -32,9 +32,7 @@
 
 ## <picture> <img src="https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 
-<p align="center">  
-  <img src="https://github.com/anan1412kdz/anan1412kdz/blob/main/Images/Connect-with-me.gif?raw=true" width="100px">
-</p>
+
 <p align="center">  
 <a href="https://discord.com/users/anan_1412kdz">
   <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=plastic&logo=discord&logoColor=white" alt="Discord" />
