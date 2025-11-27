@@ -13,7 +13,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=anan1412kdz&label=Profile%20views&color=0047AB&style=plastic" alt="anan1412kdz" height="25px" width="160px"/> 
+	<img src="https://komarev.com/ghpvc/?username=traitimtrongvag&label=Profile%20views&color=0047AB&style=plastic" alt="traitimtrongvag" height="25px" width="160px"/> 
 
 </p>
 
