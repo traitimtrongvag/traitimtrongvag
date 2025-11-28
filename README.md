@@ -170,7 +170,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">  
 	    <img alt="traitimtrongvag's Github Stats" src="https://github-readme-stats-seven-xi-86.vercel.app/api?username=traitimtrongvag&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>  
     </a>  
-    <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/top-langs?username=traitimtrongvag&langs_count=10&show_icons=true&locale=en&theme=tokyonight&v=2" alt="traitimtrongvag" height="230px"/>  
+<img src="https://github-readme-stats-seven-xi-86.vercel.app/api/top-langs?username=traitimtrongvag&langs_count=10&show_icons=true&locale=en&theme=tokyonight&v=2&hide=forks" alt="traitimtrongvag" height="230px"/>
 <br/>  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 </p>  <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
