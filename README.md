@@ -160,8 +160,8 @@
 <br> 
 <details open>
   <summary>Spotify Playing 🎧</summary>
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fvs6c4egxbnxlgeywoi2ns6zoe&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fvs6c4egxbnxlgeywoi2ns6zoe&cover_image=true&theme=novatorem"/>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31wfdr6735nhbvoth2m2ezuedjnq&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wfdr6735nhbvoth2m2ezuedjnq&cover_image=true&theme=novatorem"/>
   </a>
 
 </details>
