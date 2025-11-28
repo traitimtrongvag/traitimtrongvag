@@ -56,27 +56,22 @@
 ### <picture> <img src="https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"> </picture> Programming Languages
 
 <p align="center">
-  <!-- Python -->
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
   &emsp;
-  <!-- Java -->
   <a href="https://www.java.com" target="_blank">
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
   &emsp;
-  <!-- Rust -->
   <a href="https://www.rust-lang.org" target="_blank">
     <img alt="Rust" src="https://img.shields.io/badge/Rust-%23000000.svg?style=plastic&logo=rust&logoColor=white">
   </a>
   &emsp;
-  <!-- C -->
   <a href="https://www.cprogramming.com/" target="_blank">
     <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?style=plastic&logo=c&logoColor=white">
   </a>
   &emsp;
-  <!-- C++ -->
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a>
@@ -145,7 +140,7 @@
 <p align="center">
 
   <img width="30px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Termux"/>
-  &nbsp;&nbsp; <!-- Tạo khoảng cách 2 ô -->
+  &nbsp;&nbsp; 
   <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png" alt="Replit"/>
 </p>
 
