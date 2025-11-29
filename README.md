@@ -9,15 +9,12 @@
   </a>
 </p>
 
-
 <br>
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=traitimtrongvag&label=Profile%20views&color=0047AB&style=plastic" alt="traitimtrongvag" height="25px" width="160px"/> 
-
 </p>
 
-	
 ## <picture><img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -28,10 +25,10 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
 - :boom: You can visit [My fb](https://www.facebook.com/profile.php?id=61565647642109&mibextid=ZbWKwL).
+
 <br>
 
 ## <picture> <img src="https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-
 
 <p align="center">  
 <a href="https://discord.com/users/anan_1412kdz">
@@ -50,8 +47,6 @@
     <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
-
 
 ### <picture> <img src="https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"> </picture> Programming Languages
 
@@ -77,7 +72,7 @@
   </a>
 </p>
 
- ### <picture> <img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software 
+### <picture> <img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software 
  
 <p align="center">
   &emsp;
@@ -106,7 +101,7 @@
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
- ### <picture> <img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+### <picture> <img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
  
 <p align="center">
   <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-019733.svg?style=plastic&logo=vim&logoColor=white"></a>
@@ -115,16 +110,15 @@
 </p>
 &emsp;
 			
- ### Tools
+### Tools
 
 <p align="center">
-
   <img width="30px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Termux"/>
   &nbsp;&nbsp; 
   <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png" alt="Replit"/>
 </p>
 
- ### <picture> <img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+### <picture> <img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
 <p align="center">
   &emsp;
@@ -134,16 +128,15 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
-
 </p>
 
 <br> 
+
 <details open>
   <summary>Spotify Playing 🎧</summary>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31wfdr6735nhbvoth2m2ezuedjnq&redirect=true" target="_blank">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wfdr6735nhbvoth2m2ezuedjnq&cover_image=true&theme=novatorem"/>
   </a>
-
 </details>
 
 ---
@@ -163,7 +156,9 @@
 </p>
 
 </details>
+
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>  
+
 ---
 
 <p align="center">  
@@ -173,7 +168,9 @@
 <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/top-langs?username=traitimtrongvag&langs_count=10&show_icons=true&locale=en&theme=tokyonight&v=2&hide=forks" alt="traitimtrongvag" height="230px"/>
 <br/>  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
-</p>  <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+</p>  
+
+<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 <p align="center">
   <a href="https://github.com/traitimtrongvag/github-readme-activity-graph">
@@ -182,9 +179,11 @@
 </p>
 
 </details>
+
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
 ----
+
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=traitimtrongvag&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="traitimtrongvag" />
@@ -196,6 +195,7 @@
 </details>
 
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+
 ----
 	
 <div>
@@ -232,6 +232,7 @@
     </a>
   </p>
 </div>
+
 </details>
 
 </br></br>
