@@ -184,10 +184,8 @@
 
 ----
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy.git">
-    <img src="https://github-profile-trophy.vercel.app/?username=traitimtrongvag&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="traitimtrongvag" />
-  </a> 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=traitimtrongvag&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="traitimtrongvag" />
 </p>
 
 [![@traitimtrongvag's Holopin board](https://holopin.io/api/user/board?user=traitimtrongvag)](https://holopin.io/@traitimtrongvag)
