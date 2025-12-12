@@ -188,7 +188,7 @@
 ----
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=traitimtrongvag&theme=tokyonight&column=4" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=traitimtrongvag)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 [![@traitimtrongvag's Holopin board](https://holopin.io/api/user/board?user=traitimtrongvag)](https://holopin.io/@traitimtrongvag)
