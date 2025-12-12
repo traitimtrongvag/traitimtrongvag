@@ -183,15 +183,16 @@
 
 </details>
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+<details>
+<summary><b>🏆 Git Profile Trophies</b></summary>
 
-----
+---
 
 <p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=traitimtrongvag)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=traitimtrongvag" alt="trophy" />
+  </a>
 </p>
-
-[![@traitimtrongvag's Holopin board](https://holopin.io/api/user/board?user=traitimtrongvag)](https://holopin.io/@traitimtrongvag)
 
 </details>
 
