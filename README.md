@@ -183,17 +183,16 @@
 
 </details>
 
-<details>
-<summary><b>🏆 Git Profile Trophies</b></summary>
+<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
----
+----
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=traitimtrongvag" alt="trophy" />
   </a>
 </p>
-
 </details>
 
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
