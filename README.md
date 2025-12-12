@@ -183,9 +183,10 @@
 
 </details>
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+<details>
+<summary><b>:trophy: Git Profile Trophies</b></summary>
 
-----
+---
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=traitimtrongvag&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="traitimtrongvag" />
