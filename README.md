@@ -188,7 +188,8 @@
 ----
 
 <p align="center">
-  <img src="https://github-profile-trophy.azurewebsites.net/?username=traitimtrongvag&theme=tokyonight&column=4" />
+<img src="https://github-profile-trophy.azurewebsites.net/?username=traitimtrongvag&theme=tokyonight&column=4" />
+
 </p>
 
 [![@traitimtrongvag's Holopin board](https://holopin.io/api/user/board?user=traitimtrongvag)](https://holopin.io/@traitimtrongvag)
