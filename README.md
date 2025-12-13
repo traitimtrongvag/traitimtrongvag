@@ -5,14 +5,14 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile;I'm+An,+16+years+old">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F85D7F&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile;I'm+An,+16+years+old">
   </a>
 </p>
 
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=traitimtrongvag&label=Profile%20views&color=0047AB&style=plastic" alt="traitimtrongvag" height="25px" width="160px"/> 
+	<img src="https://komarev.com/ghpvc/?username=traitimtrongvag&label=Profile%20views&color=F85D7F&style=flat" alt="traitimtrongvag" height="25px" width="160px"/> 
 </p>
 
 ## <picture><img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -32,19 +32,19 @@
 
 <p align="center">  
 <a href="https://discord.com/users/anan_1412kdz">
-  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=plastic&logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
   <a href="https://www.facebook.com/profile.php?id=61565647642109&mibextid=ZbWKwL">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://www.instagram.com/pan.lniz_?igsh=MTBvZHV2eHFybGR1dw==">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.tiktok.com/@traitimtrongvang08?_t=ZS-8uywHx479ne&_r=1">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=plastic&logo=tiktok&logoColor=white" alt="TikTok"/>
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
   <a href="mailto:tbinh831@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
@@ -52,23 +52,23 @@
 
 <p align="center">
   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.java.com" target="_blank">
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.rust-lang.org" target="_blank">
-    <img alt="Rust" src="https://img.shields.io/badge/Rust-%23000000.svg?style=plastic&logo=rust&logoColor=white">
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.cprogramming.com/" target="_blank">
-    <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+    <img alt="C" src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </a>
 </p>
 
@@ -76,39 +76,39 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?style=for-the-badge&logo=google%20sheets&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
+    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
+    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
+    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=for-the-badge&logo=opengl&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
+    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white"></a>
     &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white" /></a>
     &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" /></a>
     &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
 </p>
 
 ### <picture> <img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/IDEs.gif?raw=true" width = 50px> </picture> Developer Tools
 
 <p align="center">
-  <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-019733.svg?style=plastic&logo=vim&logoColor=white"></a>
+  <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white"></a>
   &nbsp;&nbsp;
-  <a href="#"><img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143.svg?style=plastic&logo=neovim&logoColor=white"></a>
+  <a href="#"><img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=neovim&logoColor=white"></a>
   &nbsp;&nbsp;
-  <a href="#"><img alt="Helix" src="https://img.shields.io/badge/Helix-FF6F61.svg?style=plastic&logo=helix-editor&logoColor=white"></a>
+  <a href="#"><img alt="Helix" src="https://img.shields.io/badge/Helix-FF6F61.svg?style=for-the-badge&logo=helix-editor&logoColor=white"></a>
 </p>
 
 &emsp;
@@ -117,20 +117,20 @@
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Tools
 
 <p align="center">
-  <img width="30px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Termux"/>
+  <img width="40px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Termux"/>
   &nbsp;&nbsp; 
-  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png" alt="Replit"/>
+  <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png" alt="Replit"/>
 </p>
 
 ### <picture> <img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
 <p align="center">
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
   &emsp;
 </p>
 
@@ -146,7 +146,7 @@
 ---
 
 <p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&animation=grow_out_in&quoteCategory=programming">
 </p>
 
 ## <picture> <img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
@@ -156,7 +156,7 @@
 ----	
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=traitimtrongvag&theme=tokyonight_duo" alt="traitimtrongvag" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=traitimtrongvag&theme=react&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="traitimtrongvag" />
 </p>
 
 </details>
@@ -167,18 +167,24 @@
 
 <p align="center">  
     <a href="https://github.com/anuraghazra/github-readme-stats">  
-	    <img alt="traitimtrongvag's Github Stats" src="https://github-readme-stats-seven-xi-86.vercel.app/api?username=traitimtrongvag&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>  
+	    <img alt="traitimtrongvag's Github Stats" src="https://github-readme-stats-seven-xi-86.vercel.app/api?username=traitimtrongvag&show_icons=true&count_private=true&locale=en&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>  
     </a>  
-<img src="https://github-readme-stats-seven-xi-86.vercel.app/api/top-langs?username=traitimtrongvag&langs_count=10&show_icons=true&locale=en&theme=tokyonight&v=2&hide=forks&cache_seconds=0" height="230px"/>
-<br/>  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="traitimtrongvag's Top Languages"
+       src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=traitimtrongvag&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"
+       height="192px"/>
+</a>
+<br/><br/><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>  
+
+</details>
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 <p align="center">
   <a href="https://github.com/traitimtrongvag/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=traitimtrongvag&theme=modern-lilac" alt="GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=traitimtrongvag&theme=react-dark&hide_border=true&bg_color=1F222E&color=F85D7F&line=F85D7F&point=F8D866" alt="GitHub Activity Graph"/>
   </a>
 </p>
 
@@ -191,7 +197,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=traitimtrongvag" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=traitimtrongvag&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
   </a>
 </p>
 </details>
@@ -203,34 +209,34 @@
 <div>
   <p align="center">
     <a href="https://github.com/traitimtrongvag/GetOFFSET.git" target="_blank">
-      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=GetOFFSET&theme=tokyonight&v=2&cache_seconds=1800" />
+      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=GetOFFSET&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&v=2&cache_seconds=1800" />
     </a>
     <a href="https://github.com/traitimtrongvag/And64InlineHook-rs.git" target="_blank">
-      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=And64InlineHook-rs&theme=tokyonight&v=2&cache_seconds=1800" />
+      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=And64InlineHook-rs&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&v=2&cache_seconds=1800" />
     </a>    
     <a href="https://github.com/traitimtrongvag/Automation-Github.git" target="_blank">
-      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=Automation-Github&theme=tokyonight&v=2&cache_seconds=1800" />
+      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=Automation-Github&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&v=2&cache_seconds=1800" />
     </a>
     <a href="https://github.com/traitimtrongvag/Karaoke-Lyric.git" target="_blank">
-      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=Karaoke-Lyric&theme=tokyonight&v=2&cache_seconds=1800" />
+      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=Karaoke-Lyric&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&v=2&cache_seconds=1800" />
     </a>
      <a href="https://github.com/traitimtrongvag/LeetCode.git" target="_blank">
-      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=LeetCode&theme=tokyonight&v=2&cache_seconds=1800" />
+      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=LeetCode&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&v=2&cache_seconds=1800" />
     </a>    
     <a href="https://github.com/traitimtrongvag/AAn-Ddos-Attack.git" target="_blank">
-      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=AAn-Dos-Attack&theme=tokyonight&v=2&cache_seconds=1800" />
+      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=AAn-Dos-Attack&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&v=2&cache_seconds=1800" />
     </a>
     <a href="https://github.com/traitimtrongvag/Encodev2.git" target="_blank">
-      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=Encodev2&theme=tokyonight&v=2&cache_seconds=1800" />
+      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=Encodev2&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&v=2&cache_seconds=1800" />
     </a>
     <a href="https://github.com/traitimtrongvag/Spam-phone-number.git" target="_blank">
-      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=Spam-phone-number&theme=tokyonight&v=2&cache_seconds=1800" />
+      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=Spam-phone-number&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&v=2&cache_seconds=1800" />
     </a>
     <a href="https://github.com/traitimtrongvag/Proxy-Tools.git" target="_blank">
-      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=Proxy-Tools&theme=tokyonight&v=2&cache_seconds=1800" />
+      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=Proxy-Tools&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&v=2&cache_seconds=1800" />
     </a>
     <a href="https://github.com/traitimtrongvag/weather-bot.git" target="_blank">
-      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=weather-bot&theme=tokyonight&v=2&cache_seconds=1800" />
+      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=weather-bot&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&v=2&cache_seconds=1800" />
     </a>
   </p>
 </div>
