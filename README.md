@@ -232,9 +232,6 @@
     <a href="https://github.com/traitimtrongvag/weather-bot.git" target="_blank">
       <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=weather-bot&theme=tokyonight&v=2&cache_seconds=1800" />
     </a>
-    <a href="https://github.com/traitimtrongvag/Oioi.git" target="_blank">
-      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=Oioi&bg_color=FF69B4&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&v=2&cache_seconds=1800" />
-    </a>
   </p>
 </div>
 
