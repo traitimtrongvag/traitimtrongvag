@@ -156,7 +156,7 @@
 ----	
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=traitimtrongvag&theme=react&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="traitimtrongvag" />
+<img src="https://streak-stats.demolab.com/?user=traitimtrongvag&theme=react&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="traitimtrongvag" />
 </p>
 
 </details>
@@ -167,12 +167,12 @@
 
 <p align="center">  
     <a href="https://github.com/anuraghazra/github-readme-stats">  
-	    <img alt="traitimtrongvag's Github Stats" src="https://github-readme-stats-seven-xi-86.vercel.app/api?username=traitimtrongvag&show_icons=true&count_private=true&locale=en&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>  
+	    <img alt="traitimtrongvag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=traitimtrongvag&show_icons=true&count_private=true&locale=en&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>  
     </a>  
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="traitimtrongvag's Top Languages"
-       src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=traitimtrongvag&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=traitimtrongvag&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"
        height="192px"/>
 </a>
 <br/><br/><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -208,35 +208,35 @@
 	
 <div>
   <p align="center">
-    <a href="https://github.com/traitimtrongvag/GetOFFSET.git" target="_blank">
-      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=GetOFFSET&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&v=2&cache_seconds=1800" />
+    <a href="https://github.com/traitimtrongvag/GetOFFSET">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=GetOFFSET&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     </a>
-    <a href="https://github.com/traitimtrongvag/And64InlineHook-rs.git" target="_blank">
-      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=And64InlineHook-rs&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&v=2&cache_seconds=1800" />
+    <a href="https://github.com/traitimtrongvag/And64InlineHook-rs">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=And64InlineHook-rs&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     </a>    
-    <a href="https://github.com/traitimtrongvag/Automation-Github.git" target="_blank">
-      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=Automation-Github&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&v=2&cache_seconds=1800" />
+    <a href="https://github.com/traitimtrongvag/Automation-Github">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Automation-Github&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     </a>
-    <a href="https://github.com/traitimtrongvag/Karaoke-Lyric.git" target="_blank">
-      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=Karaoke-Lyric&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&v=2&cache_seconds=1800" />
+    <a href="https://github.com/traitimtrongvag/Karaoke-Lyric">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Karaoke-Lyric&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     </a>
-     <a href="https://github.com/traitimtrongvag/LeetCode.git" target="_blank">
-      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=LeetCode&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&v=2&cache_seconds=1800" />
+     <a href="https://github.com/traitimtrongvag/LeetCode">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=LeetCode&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     </a>    
-    <a href="https://github.com/traitimtrongvag/AAn-Ddos-Attack.git" target="_blank">
-      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=AAn-Dos-Attack&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&v=2&cache_seconds=1800" />
+    <a href="https://github.com/traitimtrongvag/AAn-Dos-Attack">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=AAn-Dos-Attack&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     </a>
-    <a href="https://github.com/traitimtrongvag/Encodev2.git" target="_blank">
-      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=Encodev2&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&v=2&cache_seconds=1800" />
+    <a href="https://github.com/traitimtrongvag/Encodev2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Encodev2&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     </a>
-    <a href="https://github.com/traitimtrongvag/Spam-phone-number.git" target="_blank">
-      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=Spam-phone-number&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&v=2&cache_seconds=1800" />
+    <a href="https://github.com/traitimtrongvag/Spam-phone-number">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Spam-phone-number&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     </a>
-    <a href="https://github.com/traitimtrongvag/Proxy-Tools.git" target="_blank">
-      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=Proxy-Tools&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&v=2&cache_seconds=1800" />
+    <a href="https://github.com/traitimtrongvag/Proxy-Tools">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Proxy-Tools&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     </a>
-    <a href="https://github.com/traitimtrongvag/weather-bot.git" target="_blank">
-      <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=weather-bot&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&v=2&cache_seconds=1800" />
+    <a href="https://github.com/traitimtrongvag/weather-bot">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=weather-bot&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     </a>
   </p>
 </div>
