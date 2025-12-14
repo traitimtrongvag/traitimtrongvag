@@ -223,8 +223,8 @@
      <a href="https://github.com/traitimtrongvag/LeetCode_DailyChallenge">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=LeetCode_DailyChallenge&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     </a>  
-     <a href="https://github.com/traitimtrongvag/HackerRank_DailyChallenge">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=HackerRank_DailyChallenge&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+     <a href="https://github.com/traitimtrongvag/HackerRank_Java_DailyChallenge">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=HackerRank_Java_DailyChallenge&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     </a>    
     <a href="https://github.com/traitimtrongvag/AAn-Dos-Attack">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=AAn-Dos-Attack&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
