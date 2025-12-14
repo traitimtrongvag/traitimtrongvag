@@ -43,7 +43,7 @@
   <a href="https://www.tiktok.com/@traitimtrongvang08?_t=ZS-8uywHx479ne&_r=1">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
-  <a href="mailto:tbinh831@gmail.com">
+  <a href="mailto:pan2512811@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
