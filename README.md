@@ -158,7 +158,7 @@
 ----	
 
 <p align="center">
-  <img src="https://github-readme-stats-seven-xi-86.vercel.app/api?username=traitimtrongvag&theme=dracula&hide_border=true&show_icons=true" alt="traitimtrongvag" />
+  <img src="https://streak-stats-seven-xi-86.vercel.app/?user=traitimtrongvag&theme=react&hide_border=true" alt="Streak" />
 </p>
 
 </details>
