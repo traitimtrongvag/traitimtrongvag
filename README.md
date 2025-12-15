@@ -158,7 +158,7 @@
 ----	
 
 <p align="center">
-  <img src="https://streak-stats-seven-xi-86.vercel.app/?user=traitimtrongvag&theme=react&hide_border=true" alt="Streak" />
+<img src="https://github-readme-streak-stats-one-neon.vercel.app/?user=traitimtrongvag&theme=react&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="traitimtrongvag" />
 </p>
 
 </details>
