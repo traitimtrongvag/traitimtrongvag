@@ -158,7 +158,7 @@
 ----	
 
 <p align="center">
-  <img src="https://github-readme-stats-seven-xi-86.vercel.app/api?username=traitimtrongvag&theme=react&hide_border=true&show_icons=true" alt="traitimtrongvag" />
+  <img src="https://github-readme-stats-ohnnqcrp0-hshshshs-projects-488cd392.vercel.app/api?username=traitimtrongvag&theme=react&hide_border=true&show_icons=true" alt="traitimtrongvag" />
 </p>
 
 </details>
