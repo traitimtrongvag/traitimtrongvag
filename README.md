@@ -101,7 +101,7 @@
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
 </p>
 
-### <picture> <img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/IDEs.gif?raw=true" width = 50px> </picture> Developer Tools
+### <picture> <img src="https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/IDEs.gif?raw=true" width="50px"> </picture> Developer Tools
 
 <p align="center">
   <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white"></a>
@@ -109,6 +109,8 @@
   <a href="#"><img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=neovim&logoColor=white"></a>
   &nbsp;&nbsp;
   <a href="#"><img alt="Helix" src="https://img.shields.io/badge/Helix-FF6F61.svg?style=for-the-badge&logo=helix-editor&logoColor=white"></a>
+  &nbsp;&nbsp;
+  <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
 </p>
 
 &emsp;
