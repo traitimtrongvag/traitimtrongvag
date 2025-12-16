@@ -174,7 +174,7 @@
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="traitimtrongvag's Top Languages"
-       src="https://https://github-readme-stats-seven-xi-86.vercel.app/api/top-langs/?username=traitimtrongvag&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=traitimtrongvag&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"
        height="192px"/>
 </a>
 <br/><br/><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -211,37 +211,37 @@
 <div>
   <p align="center">
     <a href="https://github.com/traitimtrongvag/GetOFFSET">
-      <img src="https://https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=GetOFFSET&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=GetOFFSET&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     </a>
     <a href="https://github.com/traitimtrongvag/And64InlineHook-rs">
-      <img src="https://https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=And64InlineHook-rs&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=And64InlineHook-rs&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     </a>    
     <a href="https://github.com/traitimtrongvag/Automation-Github">
-      <img src="https://https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=Automation-Github&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Automation-Github&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     </a>
     <a href="https://github.com/traitimtrongvag/Karaoke-Lyric">
-      <img src="https://https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=Karaoke-Lyric&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Karaoke-Lyric&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     </a>
      <a href="https://github.com/traitimtrongvag/LeetCode_DailyChallenge">
-      <img src="https://https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=LeetCode_DailyChallenge&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=LeetCode_DailyChallenge&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     </a>  
      <a href="https://github.com/traitimtrongvag/HackerRank_Java_DailyChallenge">
-      <img src="https://https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=HackerRank_Java_DailyChallenge&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=HackerRank_Java_DailyChallenge&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     </a>    
     <a href="https://github.com/traitimtrongvag/AAn-Dos-Attack">
-      <img src="https://https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=AAn-Dos-Attack&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=AAn-Dos-Attack&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     </a>
     <a href="https://github.com/traitimtrongvag/Encodev2">
-      <img src="https://https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=Encodev2&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Encodev2&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     </a>
     <a href="https://github.com/traitimtrongvag/Spam-phone-number">
-      <img src="https://https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=Spam-phone-number&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Spam-phone-number&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     </a>
     <a href="https://github.com/traitimtrongvag/Proxy-Tools">
-      <img src="https://https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=Proxy-Tools&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Proxy-Tools&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     </a>
     <a href="https://github.com/traitimtrongvag/weather-bot">
-      <img src="https://https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=weather-bot&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=weather-bot&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
     </a>
   </p>
 </div>
