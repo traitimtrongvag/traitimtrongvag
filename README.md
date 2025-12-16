@@ -169,12 +169,12 @@
 
 <p align="center">  
     <a href="https://github.com/anuraghazra/github-readme-stats">  
-	    <img alt="traitimtrongvag's Github Stats" src="https://github-readme-stats-seven-xi-86.vercel.app/api?username=traitimtrongvag&show_icons=true&count_private=true&locale=en&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>  
+	    <img alt="traitimtrongvag's Github Stats" src="https://github-readme-stats-seven-xi-86.vercel.app/api?username=traitimtrongvag&show_icons=true&count_private=true&locale=en&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&t=<timestamp>" height="192px"/>  
     </a>  
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="traitimtrongvag's Top Languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=traitimtrongvag&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=traitimtrongvag&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff&t=<timestamp>"
        height="192px"/>
 </a>
 <br/><br/><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
