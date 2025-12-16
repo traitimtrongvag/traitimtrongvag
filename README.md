@@ -186,7 +186,7 @@
 
 <p align="center">
   <a href="https://github.com/traitimtrongvag/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=traitimtrongvag&theme=react-dark&hide_border=true&bg_color=1F222E&color=F85D7F&line=F85D7F&point=F8D866" alt="GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=traitimtrongvag&theme=react-dark&hide_border=true&bg_color=1F222E&color=F85D7F&line=F85D7F&point=F8D866&cache_control=no-cache" alt="GitHub Activity Graph"/>
   </a>
 </p>
 
