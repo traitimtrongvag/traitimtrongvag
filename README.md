@@ -156,11 +156,9 @@
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
 ----	
-
 <p align="center">
-  <img src="https://github-readme-streak-five.vercel.app/?user=traitimtrongvag&theme=dark&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&v=1" alt="traitimtrongvag" />
+  <img src="https://github-readme-streak-five.vercel.app/?user=traitimtrongvag&theme=dark&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&currStreakNum=FFD700&sideNums=FFD700&v=1" alt="traitimtrongvag" />
 </p>
-
 </details>
 
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>  
