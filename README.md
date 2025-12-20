@@ -141,14 +141,14 @@
 <details open>
   <summary>Spotify Playing 🎧</summary>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31wfdr6735nhbvoth2m2ezuedjnq&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wfdr6735nhbvoth2m2ezuedjnq&cover_image=true&theme=novatorem"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wfdr6735nhbvoth2m2ezuedjnq&cover_image=true&theme=default"/>
   </a>
 </details>
 
 ---
 
 <p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&animation=grow_out_in&quoteCategory=programming">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&animation=grow_out_in&quoteCategory=programming">
 </p>
 
 ## <picture> <img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
@@ -157,7 +157,7 @@
 
 ----	
 <p align="center">
-  <img src="https://github-readme-streak-five.vercel.app/?user=traitimtrongvag&theme=dark&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&currStreakNum=FFF799&sideNums=FFF799&v=1" alt="traitimtrongvag" />
+  <img src="https://github-readme-streak-five.vercel.app/?user=traitimtrongvag&theme=default&hide_border=true&v=1" alt="traitimtrongvag" />
 </p>
 </details>
 
@@ -167,12 +167,12 @@
 
 <p align="center">  
     <a href="https://github.com/anuraghazra/github-readme-stats">  
-	    <img alt="traitimtrongvag's Github Stats" src="https://github-readme-stats-seven-xi-86.vercel.app/api?username=traitimtrongvag&show_icons=true&count_private=true&locale=en&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&t=<timestamp>" height="192px"/>  
+	    <img alt="traitimtrongvag's Github Stats" src="https://github-readme-stats-seven-xi-86.vercel.app/api?username=traitimtrongvag&show_icons=true&count_private=true&locale=en&theme=default&hide_border=true&t=<timestamp>" height="192px"/>  
     </a>  
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="traitimtrongvag's Top Languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=traitimtrongvag&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff&t=<timestamp>"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=traitimtrongvag&langs_count=8&layout=compact&theme=default&hide_border=true&hide=Jupyter%20Notebook,Roff&t=<timestamp>"
        height="192px"/>
 </a>
 <br/><br/><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -184,7 +184,7 @@
 
 <p align="center">
   <a href="https://github.com/traitimtrongvag/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=traitimtrongvag&theme=react-dark&hide_border=true&bg_color=1F222E&color=F85D7F&line=F85D7F&point=F8D866&cache_control=no-cache" alt="GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=traitimtrongvag&theme=github-light&hide_border=true&cache_control=no-cache" alt="GitHub Activity Graph"/>
   </a>
 </p>
 
@@ -197,7 +197,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=traitimtrongvag&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
+    <img src="https://github-trophies.vercel.app/?username=traitimtrongvag&theme=flat&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
   </a>
 </p>
 </details>
@@ -209,37 +209,37 @@
 <div>
   <p align="center">
     <a href="https://github.com/traitimtrongvag/GetOFFSET">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=GetOFFSET&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&t=<timestamp>" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=GetOFFSET&theme=default&hide_border=true&t=<timestamp>" />
     </a>
     <a href="https://github.com/traitimtrongvag/And64InlineHook-rs">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=And64InlineHook-rs&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&t=<timestamp>" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=And64InlineHook-rs&theme=default&hide_border=true&t=<timestamp>" />
     </a>    
     <a href="https://github.com/traitimtrongvag/Automation-Github">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Automation-Github&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&t=<timestamp>" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Automation-Github&theme=default&hide_border=true&t=<timestamp>" />
     </a>
     <a href="https://github.com/traitimtrongvag/Karaoke-Lyric">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Karaoke-Lyric&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&t=<timestamp>" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Karaoke-Lyric&theme=default&hide_border=true&t=<timestamp>" />
     </a>
      <a href="https://github.com/traitimtrongvag/LeetCode_DailyChallenge">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=LeetCode_DailyChallenge&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&t=<timestamp>" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=LeetCode_DailyChallenge&theme=default&hide_border=true&t=<timestamp>" />
     </a>  
      <a href="https://github.com/traitimtrongvag/HackerRank_Java_DailyChallenge">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=HackerRank_Java_DailyChallenge&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&t=<timestamp>" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=HackerRank_Java_DailyChallenge&theme=default&hide_border=true&t=<timestamp>" />
     </a>    
     <a href="https://github.com/traitimtrongvag/AAn-Dos-Attack">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=AAn-Dos-Attack&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&t=<timestamp>" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=AAn-Dos-Attack&theme=default&hide_border=true&t=<timestamp>" />
     </a>
     <a href="https://github.com/traitimtrongvag/Encodev2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Encodev2&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&t=<timestamp>" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Encodev2&theme=default&hide_border=true&t=<timestamp>" />
     </a>
     <a href="https://github.com/traitimtrongvag/Spam-phone-number">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Spam-phone-number&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&t=<timestamp>" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Spam-phone-number&theme=default&hide_border=true&t=<timestamp>" />
     </a>
     <a href="https://github.com/traitimtrongvag/Proxy-Tools">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Proxy-Tools&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&t=<timestamp>" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Proxy-Tools&theme=default&hide_border=true&t=<timestamp>" />
     </a>
     <a href="https://github.com/traitimtrongvag/weather-bot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=weather-bot&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&t=<timestamp>" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=weather-bot&theme=default&hide_border=true&t=<timestamp>" />
     </a>
   </p>
 </div>
