@@ -5,14 +5,14 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=F85D7F&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile;I'm+An,+16+years+old">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=7AA2F7&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile;I'm+An,+16+years+old">
   </a>
 </p>
 
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=traitimtrongvag&label=Profile%20views&color=F85D7F&style=flat" alt="traitimtrongvag" height="25px" width="160px"/> 
+	<img src="https://komarev.com/ghpvc/?username=traitimtrongvag&label=Profile%20views&color=7AA2F7&style=flat" alt="traitimtrongvag" height="25px" width="160px"/> 
 </p>
 
 ## <picture><img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -157,7 +157,7 @@
 
 ----	
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=traitimtrongvag&theme=tokyonight_duo" alt="traitimtrongvag" />
+  <img src="https://github-readme-streak-five.vercel.app/?user=traitimtrongvag&theme=tokyonight_duo&hide_border=true&v=1" alt="traitimtrongvag" />
 </p>
 </details>
 
@@ -167,9 +167,14 @@
 
 <p align="center">  
     <a href="https://github.com/anuraghazra/github-readme-stats">  
-	    <img alt="traitimtrongvag's Github Stats" src="https://github-readme-stats-seven-xi-86.vercel.app/api?username=traitimtrongvag&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact&t=<timestamp>" height="230px"/>  
-    </a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=traitimtrongvag&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="traitimtrongvag" height="230px"/>
+	    <img alt="traitimtrongvag's Github Stats" src="https://github-readme-stats-seven-xi-86.vercel.app/api?username=traitimtrongvag&show_icons=true&count_private=true&locale=en&theme=tokyonight&hide_border=true&t=<timestamp>" height="192px"/>  
+    </a>  
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="traitimtrongvag's Top Languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=traitimtrongvag&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,Roff&t=<timestamp>"
+       height="192px"/>
+</a>
 <br/><br/><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>  
 
@@ -179,7 +184,7 @@
 
 <p align="center">
   <a href="https://github.com/traitimtrongvag/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=traitimtrongvag&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true&cache_control=no-cache" alt="GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=traitimtrongvag&bg_color=1a1b27&color=7aa2f7&line=628edb&point=64bfaf&area=true&hide_border=true&cache_control=no-cache" alt="GitHub Activity Graph"/>
   </a>
 </p>
 
@@ -192,7 +197,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=traitimtrongvag&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="trophy" />
+    <img src="https://github-trophies.vercel.app/?username=traitimtrongvag&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
   </a>
 </p>
 </details>
@@ -204,37 +209,37 @@
 <div>
   <p align="center">
     <a href="https://github.com/traitimtrongvag/GetOFFSET">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=GetOFFSET&theme=tokyonight&t=<timestamp>" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=GetOFFSET&theme=tokyonight&hide_border=true&t=<timestamp>" />
     </a>
     <a href="https://github.com/traitimtrongvag/And64InlineHook-rs">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=And64InlineHook-rs&theme=tokyonight&t=<timestamp>" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=And64InlineHook-rs&theme=tokyonight&hide_border=true&t=<timestamp>" />
     </a>    
     <a href="https://github.com/traitimtrongvag/Automation-Github">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Automation-Github&theme=tokyonight&t=<timestamp>" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Automation-Github&theme=tokyonight&hide_border=true&t=<timestamp>" />
     </a>
     <a href="https://github.com/traitimtrongvag/Karaoke-Lyric">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Karaoke-Lyric&theme=tokyonight&t=<timestamp>" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Karaoke-Lyric&theme=tokyonight&hide_border=true&t=<timestamp>" />
     </a>
      <a href="https://github.com/traitimtrongvag/LeetCode_DailyChallenge">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=LeetCode_DailyChallenge&theme=tokyonight&t=<timestamp>" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=LeetCode_DailyChallenge&theme=tokyonight&hide_border=true&t=<timestamp>" />
     </a>  
      <a href="https://github.com/traitimtrongvag/HackerRank_Java_DailyChallenge">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=HackerRank_Java_DailyChallenge&theme=tokyonight&t=<timestamp>" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=HackerRank_Java_DailyChallenge&theme=tokyonight&hide_border=true&t=<timestamp>" />
     </a>    
     <a href="https://github.com/traitimtrongvag/AAn-Dos-Attack">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=AAn-Dos-Attack&theme=tokyonight&t=<timestamp>" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=AAn-Dos-Attack&theme=tokyonight&hide_border=true&t=<timestamp>" />
     </a>
     <a href="https://github.com/traitimtrongvag/Encodev2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Encodev2&theme=tokyonight&t=<timestamp>" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Encodev2&theme=tokyonight&hide_border=true&t=<timestamp>" />
     </a>
     <a href="https://github.com/traitimtrongvag/Spam-phone-number">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Spam-phone-number&theme=tokyonight&t=<timestamp>" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Spam-phone-number&theme=tokyonight&hide_border=true&t=<timestamp>" />
     </a>
     <a href="https://github.com/traitimtrongvag/Proxy-Tools">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Proxy-Tools&theme=tokyonight&t=<timestamp>" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=Proxy-Tools&theme=tokyonight&hide_border=true&t=<timestamp>" />
     </a>
     <a href="https://github.com/traitimtrongvag/weather-bot">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=weather-bot&theme=tokyonight&t=<timestamp>" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=traitimtrongvag&repo=weather-bot&theme=tokyonight&hide_border=true&t=<timestamp>" />
     </a>
   </p>
 </div>
