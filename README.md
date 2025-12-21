@@ -124,7 +124,7 @@
   &nbsp;&nbsp; 
   <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png" alt="Replit"/>
   &nbsp;&nbsp;
-  <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Cheat_Engine_Logo.png" alt="Cheat Engine"/>
+  <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Cheat_Engine_Logo.png" alt="Cheat Engine"/>
 </p>
 
 ### <picture> <img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
