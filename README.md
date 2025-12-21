@@ -99,6 +99,8 @@
     <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" /></a>
     &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
+    &emsp;
+<a href="#"><img alt="Cheat Engine" src="https://img.shields.io/badge/Cheat%20Engine-%23D40000.svg?style=for-the-badge&logo=cheatengine&logoColor=white"></a>
 </p>
 
 ### <picture> <img src="https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/IDEs.gif?raw=true" width="50px"> </picture> Developer Tools
