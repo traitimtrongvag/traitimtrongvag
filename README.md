@@ -3,6 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
+<!-- repo: https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=7AA2F7&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile;I'm+An,+16+years+old">
@@ -133,6 +134,7 @@
 
 <br> 
 
+<!-- repo: https://github.com/kittinan/spotify-github-profile -->
 <details open>
   <summary>Spotify Playing 🎧</summary>
   
@@ -144,12 +146,14 @@
 
 ---
 
+<!-- repo: https://github.com/piyushsuthar/github-readme-quotes -->
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
 ## <picture> <img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
+<!-- repo: https://github.com/DenverCoder1/github-readme-streak-stats -->
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
 ----	
@@ -162,18 +166,21 @@
 
 ---
 
+<!-- repo: https://github.com/JacobLinCool/LeetCode-Stats-Card -->
 <p align="center">
   <a href="https://leetcode.com/Anan1412/">
     <img src="https://leetcard.jacoblin.cool/Anan1412?theme=dark&font=Nunito&ext=contest,heatmap" alt="LeetCode Stats"/>
   </a>
 </p>
 
+<!-- repo: https://github.com/KevzPeter/Leetcode-Badge-Showcase -->
 <p align="center">
   <img src="https://leetcode-badge-showcase-rho.vercel.app/api?username=Anan1412&theme=tokyonight&border=border&animated=true&v=1"/>
 </p>
 
 </details>
 
+<!-- repo: https://github.com/anuraghazra/github-readme-stats -->
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>  
 
 ---
@@ -195,6 +202,7 @@
 
 </details>
 
+<!-- repo: https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 ---
@@ -207,6 +215,7 @@
 
 </details>
 
+<!-- repo: https://github.com/ryo-ma/github-profile-trophy -->
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
 ----
@@ -219,6 +228,7 @@
 </p>
 </details>
 
+<!-- repo: https://github.com/anuraghazra/github-readme-stats -->
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
 ----
