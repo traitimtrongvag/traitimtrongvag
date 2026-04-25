@@ -279,10 +279,6 @@
   <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=Encodev2&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </a>
 
-<a href="https://github.com/traitimtrongvag/Spam-phone-number">
-  <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=Spam-phone-number&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</a>
-
 <a href="https://github.com/traitimtrongvag/weather-bot">
   <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=weather-bot&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </a>
