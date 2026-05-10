@@ -175,7 +175,7 @@
 
 <!-- repo: https://github.com/KevzPeter/Leetcode-Badge-Showcase -->
 <p align="center">
-  <img src="https://leetcode-badge-showcase-rho.vercel.app/api?username=Anan1412&theme=tokyonight&border=border&animated=true&v=1"/>
+  <img src="https://leetcode-badge-showcase-rho.vercel.app/api?username=Anan1412&theme=tokyonight&border=border&animated=true&v=2"/>
 </p>
 
 </details>
