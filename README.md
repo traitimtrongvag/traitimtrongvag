@@ -16,9 +16,9 @@
 	<img src="https://komarev.com/ghpvc/?username=traitimtrongvag&label=Profile%20views&color=7AA2F7&style=flat" alt="traitimtrongvag" height="25px" width="160px"/> 
 </p>
 
-## <picture><img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "Images/about_me.gif" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="Images/Right_Side.gif" width = 250px></picture>
 
 <br><br>
 
@@ -29,7 +29,7 @@
 
 <br>
 
-## <picture> <img src="https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture> <img src="Images/Connect-with-me.gif" width="100px"> </picture> Connect with me
 
 <p align="center">  
 <a href="https://discord.com/users/anan_1412kdz">
@@ -49,7 +49,7 @@
   </a>
 </p>
 
-### <picture> <img src="https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"> </picture> Programming Languages
+### <picture> <img src="Images/Programming_Languages.gif" width="50px"> </picture> Programming Languages
 
 <p align="center">
   <a href="https://www.python.org" target="_blank">
@@ -73,7 +73,7 @@
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software 
+### <picture> <img src="Images/Software_Tools.gif" width="50px"> </picture> Software 
  
 <p align="center">
   &emsp;
@@ -104,7 +104,7 @@
     <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
 </p>
 
-### <picture> <img src="https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/IDEs.gif?raw=true" width="50px"> </picture> Developer Tools
+### <picture> <img src="Images/IDEs.gif" width="50px"> </picture> Developer Tools
 
 <p align="center">
   <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white"></a>
@@ -125,7 +125,7 @@
   <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Cheat_Engine_Logo.png" alt="Cheat Engine"/>
 </p>
 
-### <picture> <img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+### <picture> <img src="Images/OS.gif" width="50px"> </picture> Operating Systems
  
 <p align="center">
   &emsp;
@@ -151,7 +151,7 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <picture> <img src = "https://github.com/traitimtrongvag/traitimtrongvag/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <picture> <img src="Images/Statistics.gif" width="50px"> </picture> Github Stats
 
 <!-- repo: https://github.com/DenverCoder1/github-readme-streak-stats -->
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
