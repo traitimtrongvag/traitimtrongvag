@@ -240,7 +240,7 @@
 </a>
 
 <a href="https://github.com/traitimtrongvag/Android-Imgui-Template">
-  <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=Android-Imgui-Templatetheme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-seven-xi-86.vercel.app/api/pin/?username=traitimtrongvag&repo=Android-Imgui-Template&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/traitimtrongvag/And64InlineHook-rs">
