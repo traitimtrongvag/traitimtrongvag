@@ -129,7 +129,7 @@
  
 <p align="center">
   &emsp;
-    <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+    <a href="https://linuxmint.com/download.php"><img src="https://img.shields.io/badge/Linux_Mint_Xfce-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white&labelColor=1793D1"></a>
 </p>
 
 <br> 
