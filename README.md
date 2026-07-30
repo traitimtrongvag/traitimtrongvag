@@ -4,12 +4,10 @@
 
 <div align="center">
 
-# $${\huge\color{#FF69B4}\textbf{An}}$$
-
 </div>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=siuuuuuuuuuuuuuuuuuuuuuuu;Hi,+I'm+An+16+years+old;Welcome+to+my+profile&font=Fira%20Code&color=%23FF69B4&center=true&width=400&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile;Hi,+I'm+An+16+years+old&font=Fira%20Code&color=%23FF69B4&center=true&width=400&height=50">
 </p>
 
 <br>
