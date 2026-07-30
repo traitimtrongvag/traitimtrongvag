@@ -20,6 +20,6 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/31wfdr6735nhbvoth2m2ezuedjnq" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31egribcgm4r6vxhx35xa6mr5iou&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&mode=dark&bar_color=FF69B4&bar_color_cover=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wfdr6735nhbvoth2m2ezuedjnq&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&mode=dark&bar_color=FF69B4&bar_color_cover=true">
   </a>
 </p>
